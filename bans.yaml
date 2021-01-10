@@ -2,3 +2,6 @@ permanent:
   - zeus: "5e59bd90504c47da997cb2165c35c4ce"
     name: "marki"
     reason: "antisemitic and offensive chat"
+  - zeus: "d2105db7add2496ebd58c8eb442062e7"
+    name: "TheG@nplay"
+    reason: "Cheating"
